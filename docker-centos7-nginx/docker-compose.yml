@@ -1,0 +1,18 @@
+version: "3"
+services:
+  nginx:
+    image: cmhello/centos7-nginx:1.14
+    container_name: test-nginx
+    ports:
+      - "5000:8080"
+      - "5043:4443"
+    volumes:
+      - ./nginx/conf/nginx.conf:/etc/nginx.conf
+      - ./nginx/log/nginx/:/var/log/nginx/
+      - ./nginx/www:/usr/share/nginx/html
+    networks:
+      - net-php
+
+networks:
+  net-php:
+    driver: bridge
