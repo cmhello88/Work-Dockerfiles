@@ -1,0 +1,64 @@
+version: "3"
+services:
+  nginx:
+    image: cmhello/centos7-nginx:1.14
+    container_name: pay-nginx
+#    depends_on:
+#      - php
+#   command: bash -c "sudo usermod -aG root nginx && exec nginx -c /etc/nginx.conf"
+    ports:
+      - "5000:8080"
+      - "5043:4443"
+    volumes:
+      - ./nginx/conf/nginx.conf:/etc/nginx.conf
+      - ./nginx/log/nginx/:/var/log/nginx/
+      - ./www:/usr/share/nginx/html
+    networks:
+      - app-net
+
+  php:
+    image: cmhello/centos7-php:7.1
+    container_name: pay-php-fpm
+ #   depends_on:
+ #     - "mysql"
+    ports:
+      - "9991:9000"
+    volumes:
+      - ./php/conf/php.ini:/etc/php.ini
+      - ./php/conf/php-fpm.conf:/etc/php-fpm.conf
+      - ./php/log:/var/log/php7/
+      - ./www:/usr/share/nginx/html
+    networks:
+      - app-net
+
+  mysql:
+    #user: "1000:50"
+    #privileged: true
+    image: mysql:5.7
+#    depends_on:
+#    - php
+    container_name: pay-mysql
+    #entrypoint: ""
+    #command: bash -c "mkdir -p /var/lib/mysql/tmp && exec /entrypoint.sh mysqld"
+    ports:
+    - "3357:3306"
+    volumes:
+    #- ./mysql/conf/my.cnf:/etc/mysql/my.cnf
+    #- ./mysql/log:/var/log/mysql/
+    - ./mysql/data:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: "root"
+      MYSQL_DATABASE: "test"
+      MYSQL_USER: "test"
+      MYSQL_PASSWORD: "123456"
+    networks:
+      app-net:
+            ipv4_address: 10.10.10.1
+
+
+networks:
+  app-net:
+    driver: bridge
+    ipam:
+        config:
+             - subnet: 10.10.0.0/16

@@ -1,0 +1,540 @@
+[12-Oct-2018 16:51:28] ERROR: [pool www] cannot get uid for user 'www-data'
+[12-Oct-2018 16:51:28] ERROR: FPM initialization failed
+[12-Oct-2018 16:55:56] ERROR: [pool www] cannot get uid for user 'www-data'
+[12-Oct-2018 16:55:56] ERROR: FPM initialization failed
+[12-Oct-2018 16:59:57] NOTICE: fpm is running, pid 1
+[12-Oct-2018 16:59:57] NOTICE: ready to handle connections
+[12-Oct-2018 16:59:57] NOTICE: systemd monitor interval set to 10000ms
+[12-Oct-2018 17:03:20] NOTICE: Terminating ...
+[12-Oct-2018 17:03:20] NOTICE: exiting, bye-bye!
+[12-Oct-2018 17:03:26] NOTICE: fpm is running, pid 1
+[12-Oct-2018 17:03:26] NOTICE: ready to handle connections
+[12-Oct-2018 17:03:26] NOTICE: systemd monitor interval set to 10000ms
+[12-Oct-2018 17:04:40] NOTICE: Terminating ...
+[12-Oct-2018 17:04:40] NOTICE: exiting, bye-bye!
+[12-Oct-2018 17:05:05] NOTICE: fpm is running, pid 1
+[12-Oct-2018 17:05:05] NOTICE: ready to handle connections
+[12-Oct-2018 17:05:05] NOTICE: systemd monitor interval set to 10000ms
+[12-Oct-2018 17:06:57] NOTICE: Terminating ...
+[12-Oct-2018 17:06:57] NOTICE: exiting, bye-bye!
+[13-Oct-2018 15:48:25] NOTICE: fpm is running, pid 1
+[13-Oct-2018 15:48:25] NOTICE: ready to handle connections
+[13-Oct-2018 15:48:25] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 15:50:04] NOTICE: Terminating ...
+[13-Oct-2018 15:50:04] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 15:50:04] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 15:50:04] NOTICE: exiting, bye-bye!
+[13-Oct-2018 15:51:33] NOTICE: fpm is running, pid 1
+[13-Oct-2018 15:51:33] NOTICE: ready to handle connections
+[13-Oct-2018 15:51:33] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 15:58:00] NOTICE: Terminating ...
+[13-Oct-2018 15:58:00] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 15:58:00] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 15:58:00] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 15:58:00] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 15:58:00] NOTICE: exiting, bye-bye!
+[13-Oct-2018 16:01:38] NOTICE: fpm is running, pid 1
+[13-Oct-2018 16:01:39] NOTICE: ready to handle connections
+[13-Oct-2018 16:01:39] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 16:04:18] NOTICE: Terminating ...
+[13-Oct-2018 16:04:18] NOTICE: exiting, bye-bye!
+[13-Oct-2018 16:05:35] NOTICE: fpm is running, pid 1
+[13-Oct-2018 16:05:35] NOTICE: ready to handle connections
+[13-Oct-2018 16:05:35] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 16:09:43] NOTICE: Terminating ...
+[13-Oct-2018 16:09:43] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 16:09:43] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 16:09:43] NOTICE: exiting, bye-bye!
+[13-Oct-2018 16:10:11] NOTICE: fpm is running, pid 1
+[13-Oct-2018 16:10:12] NOTICE: ready to handle connections
+[13-Oct-2018 16:10:12] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 16:12:06] NOTICE: Terminating ...
+[13-Oct-2018 16:12:06] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 16:12:06] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 16:12:06] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 16:12:06] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 16:12:06] NOTICE: exiting, bye-bye!
+[13-Oct-2018 16:12:13] NOTICE: fpm is running, pid 1
+[13-Oct-2018 16:12:13] NOTICE: ready to handle connections
+[13-Oct-2018 16:12:13] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 16:17:06] NOTICE: Terminating ...
+[13-Oct-2018 16:17:06] NOTICE: exiting, bye-bye!
+[13-Oct-2018 16:20:54] NOTICE: fpm is running, pid 1
+[13-Oct-2018 16:20:54] NOTICE: ready to handle connections
+[13-Oct-2018 16:20:54] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 16:21:17] NOTICE: Terminating ...
+[13-Oct-2018 16:21:17] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 16:21:17] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 16:21:17] NOTICE: exiting, bye-bye!
+[13-Oct-2018 16:21:37] NOTICE: fpm is running, pid 1
+[13-Oct-2018 16:21:38] NOTICE: ready to handle connections
+[13-Oct-2018 16:21:38] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 16:25:44] NOTICE: Terminating ...
+[13-Oct-2018 16:25:44] NOTICE: exiting, bye-bye!
+[13-Oct-2018 16:27:00] NOTICE: fpm is running, pid 1
+[13-Oct-2018 16:27:00] NOTICE: ready to handle connections
+[13-Oct-2018 16:27:00] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 16:27:27] NOTICE: Terminating ...
+[13-Oct-2018 16:27:27] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 16:27:27] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 16:27:27] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 16:27:27] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 16:27:27] NOTICE: exiting, bye-bye!
+[13-Oct-2018 16:29:58] NOTICE: fpm is running, pid 1
+[13-Oct-2018 16:29:58] NOTICE: ready to handle connections
+[13-Oct-2018 16:29:58] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 16:30:29] NOTICE: Terminating ...
+[13-Oct-2018 16:30:29] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 16:30:29] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 16:30:29] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 16:30:29] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 16:30:29] NOTICE: exiting, bye-bye!
+[13-Oct-2018 16:31:38] NOTICE: fpm is running, pid 1
+[13-Oct-2018 16:31:38] NOTICE: ready to handle connections
+[13-Oct-2018 16:31:38] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 16:44:25] NOTICE: Terminating ...
+[13-Oct-2018 16:44:25] NOTICE: exiting, bye-bye!
+[13-Oct-2018 16:46:03] NOTICE: fpm is running, pid 1
+[13-Oct-2018 16:46:03] NOTICE: ready to handle connections
+[13-Oct-2018 16:46:03] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 16:51:53] NOTICE: Terminating ...
+[13-Oct-2018 16:51:53] NOTICE: exiting, bye-bye!
+[13-Oct-2018 16:52:05] NOTICE: fpm is running, pid 1
+[13-Oct-2018 16:52:05] NOTICE: ready to handle connections
+[13-Oct-2018 16:52:05] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 16:52:37] NOTICE: Terminating ...
+[13-Oct-2018 16:52:37] NOTICE: exiting, bye-bye!
+[13-Oct-2018 16:54:17] NOTICE: fpm is running, pid 1
+[13-Oct-2018 16:54:17] NOTICE: ready to handle connections
+[13-Oct-2018 16:54:17] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 16:57:15] NOTICE: Terminating ...
+[13-Oct-2018 16:57:15] NOTICE: exiting, bye-bye!
+[13-Oct-2018 16:57:46] NOTICE: fpm is running, pid 1
+[13-Oct-2018 16:57:46] NOTICE: ready to handle connections
+[13-Oct-2018 16:57:46] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 16:58:36] NOTICE: Terminating ...
+[13-Oct-2018 16:58:36] NOTICE: exiting, bye-bye!
+[13-Oct-2018 16:59:43] NOTICE: fpm is running, pid 1
+[13-Oct-2018 16:59:43] NOTICE: ready to handle connections
+[13-Oct-2018 16:59:43] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 17:00:02] NOTICE: Terminating ...
+[13-Oct-2018 17:00:02] NOTICE: exiting, bye-bye!
+[13-Oct-2018 17:00:21] NOTICE: fpm is running, pid 1
+[13-Oct-2018 17:00:21] NOTICE: ready to handle connections
+[13-Oct-2018 17:00:21] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 17:00:32] NOTICE: Terminating ...
+[13-Oct-2018 17:00:32] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 17:00:32] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 17:00:32] NOTICE: exiting, bye-bye!
+[13-Oct-2018 17:00:51] NOTICE: fpm is running, pid 1
+[13-Oct-2018 17:00:51] NOTICE: ready to handle connections
+[13-Oct-2018 17:00:51] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 17:04:24] NOTICE: Terminating ...
+[13-Oct-2018 17:04:24] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 17:04:24] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 17:04:24] NOTICE: exiting, bye-bye!
+[13-Oct-2018 17:04:29] NOTICE: fpm is running, pid 1
+[13-Oct-2018 17:04:29] NOTICE: ready to handle connections
+[13-Oct-2018 17:04:29] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 17:05:33] NOTICE: Terminating ...
+[13-Oct-2018 17:05:33] NOTICE: exiting, bye-bye!
+[13-Oct-2018 17:05:34] NOTICE: fpm is running, pid 1
+[13-Oct-2018 17:05:34] NOTICE: ready to handle connections
+[13-Oct-2018 17:05:34] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 17:08:48] NOTICE: Terminating ...
+[13-Oct-2018 17:08:48] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 17:08:48] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 17:08:48] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 17:08:48] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 17:08:48] NOTICE: exiting, bye-bye!
+[13-Oct-2018 17:08:49] NOTICE: fpm is running, pid 1
+[13-Oct-2018 17:08:49] NOTICE: ready to handle connections
+[13-Oct-2018 17:08:49] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 17:12:27] NOTICE: Terminating ...
+[13-Oct-2018 17:12:27] ERROR: unable to read what child say: Bad file descriptor (9)
+[13-Oct-2018 17:12:27] NOTICE: exiting, bye-bye!
+[13-Oct-2018 17:16:44] NOTICE: fpm is running, pid 1
+[13-Oct-2018 17:16:44] NOTICE: ready to handle connections
+[13-Oct-2018 17:16:44] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 17:18:03] NOTICE: Terminating ...
+[13-Oct-2018 17:18:03] NOTICE: exiting, bye-bye!
+[13-Oct-2018 17:18:12] NOTICE: fpm is running, pid 1
+[13-Oct-2018 17:18:12] NOTICE: ready to handle connections
+[13-Oct-2018 17:18:12] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 17:23:38] NOTICE: Terminating ...
+[13-Oct-2018 17:23:38] NOTICE: exiting, bye-bye!
+[13-Oct-2018 17:28:07] NOTICE: fpm is running, pid 1
+[13-Oct-2018 17:28:08] NOTICE: ready to handle connections
+[13-Oct-2018 17:28:08] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 17:29:14] NOTICE: Terminating ...
+[13-Oct-2018 17:29:14] NOTICE: exiting, bye-bye!
+[13-Oct-2018 17:29:43] NOTICE: fpm is running, pid 1
+[13-Oct-2018 17:29:43] NOTICE: ready to handle connections
+[13-Oct-2018 17:29:43] NOTICE: systemd monitor interval set to 10000ms
+[13-Oct-2018 17:30:39] NOTICE: Terminating ...
+[13-Oct-2018 17:30:39] NOTICE: exiting, bye-bye!
+[13-Oct-2018 17:30:45] NOTICE: fpm is running, pid 1
+[13-Oct-2018 17:30:45] NOTICE: ready to handle connections
+[13-Oct-2018 17:30:45] NOTICE: systemd monitor interval set to 10000ms
+[14-Oct-2018 15:42:14] NOTICE: Terminating ...
+[14-Oct-2018 15:42:14] NOTICE: exiting, bye-bye!
+[15-Oct-2018 03:27:43] NOTICE: fpm is running, pid 1
+[15-Oct-2018 03:27:43] NOTICE: ready to handle connections
+[15-Oct-2018 03:27:43] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 03:29:01] NOTICE: Terminating ...
+[15-Oct-2018 03:29:01] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 03:29:01] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 03:29:01] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 03:29:01] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 03:29:01] NOTICE: exiting, bye-bye!
+[15-Oct-2018 03:29:07] NOTICE: fpm is running, pid 1
+[15-Oct-2018 03:29:07] NOTICE: ready to handle connections
+[15-Oct-2018 03:29:07] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 03:33:38] NOTICE: Terminating ...
+[15-Oct-2018 03:33:38] NOTICE: exiting, bye-bye!
+[15-Oct-2018 03:34:45] NOTICE: fpm is running, pid 1
+[15-Oct-2018 03:34:45] NOTICE: ready to handle connections
+[15-Oct-2018 03:34:45] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 03:35:09] NOTICE: Terminating ...
+[15-Oct-2018 03:35:09] NOTICE: exiting, bye-bye!
+[15-Oct-2018 03:35:30] NOTICE: fpm is running, pid 1
+[15-Oct-2018 03:35:30] NOTICE: ready to handle connections
+[15-Oct-2018 03:35:30] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 03:36:45] NOTICE: Terminating ...
+[15-Oct-2018 03:36:45] NOTICE: exiting, bye-bye!
+[15-Oct-2018 03:37:48] NOTICE: fpm is running, pid 1
+[15-Oct-2018 03:37:48] NOTICE: ready to handle connections
+[15-Oct-2018 03:37:48] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 03:38:21] NOTICE: Terminating ...
+[15-Oct-2018 03:38:21] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 03:38:21] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 03:38:21] NOTICE: exiting, bye-bye!
+[15-Oct-2018 03:38:42] NOTICE: fpm is running, pid 1
+[15-Oct-2018 03:38:42] NOTICE: ready to handle connections
+[15-Oct-2018 03:38:42] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 03:40:34] NOTICE: Terminating ...
+[15-Oct-2018 03:40:34] NOTICE: exiting, bye-bye!
+[15-Oct-2018 03:41:30] NOTICE: fpm is running, pid 1
+[15-Oct-2018 03:41:30] NOTICE: ready to handle connections
+[15-Oct-2018 03:41:30] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 03:45:21] NOTICE: Terminating ...
+[15-Oct-2018 03:45:21] NOTICE: exiting, bye-bye!
+[15-Oct-2018 03:49:07] NOTICE: fpm is running, pid 1
+[15-Oct-2018 03:49:07] NOTICE: ready to handle connections
+[15-Oct-2018 03:49:07] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 04:56:35] NOTICE: Terminating ...
+[15-Oct-2018 04:56:35] NOTICE: exiting, bye-bye!
+[15-Oct-2018 04:59:06] NOTICE: fpm is running, pid 1
+[15-Oct-2018 04:59:06] NOTICE: ready to handle connections
+[15-Oct-2018 04:59:06] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 04:59:52] NOTICE: Terminating ...
+[15-Oct-2018 04:59:52] NOTICE: exiting, bye-bye!
+[15-Oct-2018 04:59:58] NOTICE: fpm is running, pid 1
+[15-Oct-2018 04:59:58] NOTICE: ready to handle connections
+[15-Oct-2018 04:59:58] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 05:00:24] NOTICE: Terminating ...
+[15-Oct-2018 05:00:24] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 05:00:24] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 05:00:24] NOTICE: exiting, bye-bye!
+[15-Oct-2018 05:00:46] NOTICE: fpm is running, pid 1
+[15-Oct-2018 05:00:46] NOTICE: ready to handle connections
+[15-Oct-2018 05:00:46] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 05:01:11] NOTICE: Terminating ...
+[15-Oct-2018 05:01:11] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 05:01:11] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 05:01:11] NOTICE: exiting, bye-bye!
+[15-Oct-2018 05:01:33] NOTICE: fpm is running, pid 1
+[15-Oct-2018 05:01:33] NOTICE: ready to handle connections
+[15-Oct-2018 05:01:33] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 05:02:34] NOTICE: Terminating ...
+[15-Oct-2018 05:02:34] NOTICE: exiting, bye-bye!
+[15-Oct-2018 05:03:46] NOTICE: fpm is running, pid 1
+[15-Oct-2018 05:03:46] NOTICE: ready to handle connections
+[15-Oct-2018 05:03:46] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 05:06:05] NOTICE: Terminating ...
+[15-Oct-2018 05:06:05] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 05:06:05] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 05:06:05] NOTICE: exiting, bye-bye!
+[15-Oct-2018 05:06:39] NOTICE: fpm is running, pid 1
+[15-Oct-2018 05:06:39] NOTICE: ready to handle connections
+[15-Oct-2018 05:06:39] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 05:43:31] NOTICE: Terminating ...
+[15-Oct-2018 05:43:31] NOTICE: exiting, bye-bye!
+[15-Oct-2018 05:43:37] NOTICE: fpm is running, pid 1
+[15-Oct-2018 05:43:37] NOTICE: ready to handle connections
+[15-Oct-2018 05:43:37] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 05:45:56] NOTICE: Terminating ...
+[15-Oct-2018 05:45:56] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 05:45:56] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 05:45:56] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 05:45:56] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 05:45:56] NOTICE: exiting, bye-bye!
+[15-Oct-2018 05:46:05] NOTICE: fpm is running, pid 1
+[15-Oct-2018 05:46:05] NOTICE: ready to handle connections
+[15-Oct-2018 05:46:05] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 05:47:02] NOTICE: Terminating ...
+[15-Oct-2018 05:47:02] NOTICE: exiting, bye-bye!
+[15-Oct-2018 05:47:09] NOTICE: fpm is running, pid 1
+[15-Oct-2018 05:47:09] NOTICE: ready to handle connections
+[15-Oct-2018 05:47:09] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 05:47:39] NOTICE: Terminating ...
+[15-Oct-2018 05:47:39] NOTICE: exiting, bye-bye!
+[15-Oct-2018 05:47:49] NOTICE: fpm is running, pid 1
+[15-Oct-2018 05:47:49] NOTICE: ready to handle connections
+[15-Oct-2018 05:47:49] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 05:48:24] NOTICE: Terminating ...
+[15-Oct-2018 05:48:24] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 05:48:24] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 05:48:24] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 05:48:24] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 05:48:24] NOTICE: exiting, bye-bye!
+[15-Oct-2018 05:48:34] NOTICE: fpm is running, pid 1
+[15-Oct-2018 05:48:34] NOTICE: ready to handle connections
+[15-Oct-2018 05:48:34] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 06:19:28] NOTICE: Terminating ...
+[15-Oct-2018 06:19:28] NOTICE: exiting, bye-bye!
+[15-Oct-2018 06:24:11] NOTICE: fpm is running, pid 1
+[15-Oct-2018 06:24:11] NOTICE: ready to handle connections
+[15-Oct-2018 06:24:11] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 06:25:07] NOTICE: Terminating ...
+[15-Oct-2018 06:25:07] NOTICE: exiting, bye-bye!
+[15-Oct-2018 06:27:44] NOTICE: fpm is running, pid 1
+[15-Oct-2018 06:27:44] NOTICE: ready to handle connections
+[15-Oct-2018 06:27:44] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 06:28:29] NOTICE: Terminating ...
+[15-Oct-2018 06:28:29] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 06:28:29] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 06:28:29] NOTICE: exiting, bye-bye!
+[15-Oct-2018 06:28:45] NOTICE: fpm is running, pid 1
+[15-Oct-2018 06:28:45] NOTICE: ready to handle connections
+[15-Oct-2018 06:28:45] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 06:34:12] NOTICE: Terminating ...
+[15-Oct-2018 06:34:12] NOTICE: exiting, bye-bye!
+[15-Oct-2018 06:35:00] NOTICE: fpm is running, pid 1
+[15-Oct-2018 06:35:00] NOTICE: ready to handle connections
+[15-Oct-2018 06:35:00] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 06:38:02] NOTICE: Terminating ...
+[15-Oct-2018 06:38:02] NOTICE: exiting, bye-bye!
+[15-Oct-2018 06:48:30] NOTICE: fpm is running, pid 1
+[15-Oct-2018 06:48:30] NOTICE: ready to handle connections
+[15-Oct-2018 06:48:30] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 06:52:35] NOTICE: Terminating ...
+[15-Oct-2018 06:52:35] NOTICE: exiting, bye-bye!
+[15-Oct-2018 06:52:49] NOTICE: fpm is running, pid 1
+[15-Oct-2018 06:52:50] NOTICE: ready to handle connections
+[15-Oct-2018 06:52:50] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 06:57:14] NOTICE: Terminating ...
+[15-Oct-2018 06:57:14] NOTICE: exiting, bye-bye!
+[15-Oct-2018 06:57:25] NOTICE: fpm is running, pid 1
+[15-Oct-2018 06:57:25] NOTICE: ready to handle connections
+[15-Oct-2018 06:57:25] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 07:16:55] NOTICE: Terminating ...
+[15-Oct-2018 07:16:55] NOTICE: exiting, bye-bye!
+[15-Oct-2018 07:17:18] NOTICE: fpm is running, pid 1
+[15-Oct-2018 07:17:18] NOTICE: ready to handle connections
+[15-Oct-2018 07:17:18] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 07:17:41] NOTICE: Terminating ...
+[15-Oct-2018 07:17:41] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 07:17:41] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 07:17:41] NOTICE: exiting, bye-bye!
+[15-Oct-2018 07:24:43] NOTICE: fpm is running, pid 1
+[15-Oct-2018 07:24:43] NOTICE: ready to handle connections
+[15-Oct-2018 07:24:43] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 07:27:12] NOTICE: Terminating ...
+[15-Oct-2018 07:27:12] NOTICE: exiting, bye-bye!
+[15-Oct-2018 07:28:56] NOTICE: fpm is running, pid 1
+[15-Oct-2018 07:28:56] NOTICE: ready to handle connections
+[15-Oct-2018 07:28:56] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 07:29:34] NOTICE: Terminating ...
+[15-Oct-2018 07:29:34] NOTICE: exiting, bye-bye!
+[15-Oct-2018 07:29:41] NOTICE: fpm is running, pid 1
+[15-Oct-2018 07:29:41] NOTICE: ready to handle connections
+[15-Oct-2018 07:29:41] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 07:30:15] NOTICE: Terminating ...
+[15-Oct-2018 07:30:15] NOTICE: exiting, bye-bye!
+[15-Oct-2018 07:30:22] NOTICE: fpm is running, pid 1
+[15-Oct-2018 07:30:22] NOTICE: ready to handle connections
+[15-Oct-2018 07:30:22] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 07:30:43] NOTICE: Terminating ...
+[15-Oct-2018 07:30:43] NOTICE: exiting, bye-bye!
+[15-Oct-2018 07:30:49] NOTICE: fpm is running, pid 1
+[15-Oct-2018 07:30:49] NOTICE: ready to handle connections
+[15-Oct-2018 07:30:49] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 07:34:19] NOTICE: Terminating ...
+[15-Oct-2018 07:34:19] NOTICE: exiting, bye-bye!
+[15-Oct-2018 07:34:32] NOTICE: fpm is running, pid 1
+[15-Oct-2018 07:34:32] NOTICE: ready to handle connections
+[15-Oct-2018 07:34:32] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 07:58:31] NOTICE: Terminating ...
+[15-Oct-2018 07:58:31] NOTICE: exiting, bye-bye!
+[15-Oct-2018 08:07:10] NOTICE: fpm is running, pid 1
+[15-Oct-2018 08:07:10] NOTICE: ready to handle connections
+[15-Oct-2018 08:07:10] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 08:08:11] NOTICE: Terminating ...
+[15-Oct-2018 08:08:11] NOTICE: exiting, bye-bye!
+[15-Oct-2018 08:08:57] NOTICE: fpm is running, pid 1
+[15-Oct-2018 08:08:57] NOTICE: ready to handle connections
+[15-Oct-2018 08:08:57] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 08:12:43] NOTICE: Terminating ...
+[15-Oct-2018 08:12:43] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 08:12:43] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 08:12:43] NOTICE: exiting, bye-bye!
+[15-Oct-2018 08:13:45] NOTICE: fpm is running, pid 1
+[15-Oct-2018 08:13:45] NOTICE: ready to handle connections
+[15-Oct-2018 08:13:45] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 08:14:35] NOTICE: Terminating ...
+[15-Oct-2018 08:14:35] NOTICE: exiting, bye-bye!
+[15-Oct-2018 08:14:41] NOTICE: fpm is running, pid 1
+[15-Oct-2018 08:14:41] NOTICE: ready to handle connections
+[15-Oct-2018 08:14:41] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 08:35:03] NOTICE: Terminating ...
+[15-Oct-2018 08:35:03] NOTICE: exiting, bye-bye!
+[15-Oct-2018 08:35:42] NOTICE: fpm is running, pid 1
+[15-Oct-2018 08:35:42] NOTICE: ready to handle connections
+[15-Oct-2018 08:35:42] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 09:12:03] NOTICE: Terminating ...
+[15-Oct-2018 09:12:03] NOTICE: exiting, bye-bye!
+[15-Oct-2018 09:13:30] NOTICE: fpm is running, pid 1
+[15-Oct-2018 09:13:30] NOTICE: ready to handle connections
+[15-Oct-2018 09:13:30] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 09:15:08] WARNING: [pool www] child 23 said into stderr: "ERROR: Unable to open primary script: /usr/share/nginx/html/1.php (No such file or directory)"
+[15-Oct-2018 09:48:46] NOTICE: Terminating ...
+[15-Oct-2018 09:48:46] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 09:48:46] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 09:48:46] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 09:48:46] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 09:48:46] NOTICE: exiting, bye-bye!
+[15-Oct-2018 10:39:43] NOTICE: fpm is running, pid 1
+[15-Oct-2018 10:39:43] NOTICE: ready to handle connections
+[15-Oct-2018 10:39:43] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 10:39:55] NOTICE: Terminating ...
+[15-Oct-2018 10:39:55] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 10:39:55] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 10:39:55] NOTICE: exiting, bye-bye!
+[15-Oct-2018 10:39:59] NOTICE: fpm is running, pid 1
+[15-Oct-2018 10:39:59] NOTICE: ready to handle connections
+[15-Oct-2018 10:39:59] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 10:41:39] WARNING: [pool www] child 22 said into stderr: "ERROR: Unable to open primary script: /usr/share/nginx/html/1.php (No such file or directory)"
+[15-Oct-2018 10:41:53] ERROR: failed to ptrace(ATTACH) child 24: Operation not permitted (1)
+[15-Oct-2018 10:41:53] WARNING: [pool www] child 24, script '/usr/share/nginx/html/connect_mysql.php' (request: "GET /connect_mysql.php") executing too slow (5.691502 sec), logging
+[15-Oct-2018 12:53:42] NOTICE: Terminating ...
+[15-Oct-2018 12:53:42] NOTICE: exiting, bye-bye!
+[15-Oct-2018 12:54:08] NOTICE: fpm is running, pid 1
+[15-Oct-2018 12:54:08] NOTICE: ready to handle connections
+[15-Oct-2018 12:54:08] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 13:09:01] NOTICE: Terminating ...
+[15-Oct-2018 13:09:01] NOTICE: exiting, bye-bye!
+[15-Oct-2018 13:09:33] NOTICE: fpm is running, pid 1
+[15-Oct-2018 13:09:33] NOTICE: ready to handle connections
+[15-Oct-2018 13:09:33] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 13:14:30] NOTICE: Terminating ...
+[15-Oct-2018 13:14:30] NOTICE: exiting, bye-bye!
+[15-Oct-2018 13:22:20] NOTICE: fpm is running, pid 1
+[15-Oct-2018 13:22:20] NOTICE: ready to handle connections
+[15-Oct-2018 13:22:20] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 13:59:03] NOTICE: Terminating ...
+[15-Oct-2018 13:59:03] NOTICE: exiting, bye-bye!
+[15-Oct-2018 13:59:19] NOTICE: fpm is running, pid 1
+[15-Oct-2018 13:59:19] NOTICE: ready to handle connections
+[15-Oct-2018 13:59:19] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 13:59:56] ERROR: failed to ptrace(ATTACH) child 23: Operation not permitted (1)
+[15-Oct-2018 13:59:56] WARNING: [pool www] child 23, script '/usr/share/nginx/html/connect_mysql.php' (request: "GET /connect_mysql.php") executing too slow (6.569401 sec), logging
+[15-Oct-2018 14:00:26] ERROR: failed to ptrace(ATTACH) child 24: Operation not permitted (1)
+[15-Oct-2018 14:00:26] WARNING: [pool www] child 24, script '/usr/share/nginx/html/connect_mysql.php' (request: "GET /connect_mysql.php") executing too slow (6.626888 sec), logging
+[15-Oct-2018 14:05:49] NOTICE: Terminating ...
+[15-Oct-2018 14:05:49] NOTICE: exiting, bye-bye!
+[15-Oct-2018 14:06:00] NOTICE: fpm is running, pid 1
+[15-Oct-2018 14:06:00] NOTICE: ready to handle connections
+[15-Oct-2018 14:06:00] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 14:16:53] NOTICE: Terminating ...
+[15-Oct-2018 14:16:53] NOTICE: exiting, bye-bye!
+[15-Oct-2018 14:17:07] NOTICE: fpm is running, pid 1
+[15-Oct-2018 14:17:07] NOTICE: ready to handle connections
+[15-Oct-2018 14:17:07] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 14:19:13] NOTICE: Terminating ...
+[15-Oct-2018 14:19:13] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 14:19:13] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 14:19:13] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 14:19:13] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 14:19:13] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 14:19:13] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 14:19:13] NOTICE: exiting, bye-bye!
+[15-Oct-2018 14:19:20] NOTICE: fpm is running, pid 1
+[15-Oct-2018 14:19:20] NOTICE: ready to handle connections
+[15-Oct-2018 14:19:20] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 14:19:33] WARNING: [pool www] child 26 said into stderr: "ERROR: Unable to open primary script: /usr/share/nginx/html/connect-mysql.php (No such file or directory)"
+[15-Oct-2018 14:19:34] WARNING: [pool www] child 27 said into stderr: "ERROR: Unable to open primary script: /usr/share/nginx/html/connect-mysql.php (No such file or directory)"
+[15-Oct-2018 14:20:33] WARNING: [pool www] child 25 said into stderr: "ERROR: Unable to open primary script: /usr/share/nginx/html/connect-mysql.php (No such file or directory)"
+[15-Oct-2018 14:20:40] NOTICE: Terminating ...
+[15-Oct-2018 14:20:40] NOTICE: exiting, bye-bye!
+[15-Oct-2018 14:20:47] NOTICE: fpm is running, pid 1
+[15-Oct-2018 14:20:47] NOTICE: ready to handle connections
+[15-Oct-2018 14:20:47] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 14:25:42] NOTICE: Terminating ...
+[15-Oct-2018 14:25:42] NOTICE: exiting, bye-bye!
+[15-Oct-2018 14:25:52] NOTICE: fpm is running, pid 1
+[15-Oct-2018 14:25:52] NOTICE: ready to handle connections
+[15-Oct-2018 14:25:52] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 14:27:45] NOTICE: Terminating ...
+[15-Oct-2018 14:27:45] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 14:27:45] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 14:27:45] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 14:27:45] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 14:27:45] NOTICE: exiting, bye-bye!
+[15-Oct-2018 14:28:01] NOTICE: fpm is running, pid 1
+[15-Oct-2018 14:28:01] NOTICE: ready to handle connections
+[15-Oct-2018 14:28:01] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 14:31:50] NOTICE: Terminating ...
+[15-Oct-2018 14:31:50] NOTICE: exiting, bye-bye!
+[15-Oct-2018 14:33:49] NOTICE: fpm is running, pid 1
+[15-Oct-2018 14:33:49] NOTICE: ready to handle connections
+[15-Oct-2018 14:33:49] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 14:34:53] NOTICE: Terminating ...
+[15-Oct-2018 14:34:53] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 14:34:53] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 14:34:53] NOTICE: exiting, bye-bye!
+[15-Oct-2018 14:36:17] NOTICE: fpm is running, pid 1
+[15-Oct-2018 14:36:17] NOTICE: ready to handle connections
+[15-Oct-2018 14:36:17] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 14:41:19] NOTICE: Terminating ...
+[15-Oct-2018 14:41:19] NOTICE: exiting, bye-bye!
+[15-Oct-2018 14:41:27] NOTICE: fpm is running, pid 1
+[15-Oct-2018 14:41:27] NOTICE: ready to handle connections
+[15-Oct-2018 14:41:27] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 14:43:18] NOTICE: Terminating ...
+[15-Oct-2018 14:43:18] NOTICE: exiting, bye-bye!
+[15-Oct-2018 14:43:27] NOTICE: fpm is running, pid 1
+[15-Oct-2018 14:43:27] NOTICE: ready to handle connections
+[15-Oct-2018 14:43:27] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 14:54:02] NOTICE: Terminating ...
+[15-Oct-2018 14:54:02] NOTICE: exiting, bye-bye!
+[15-Oct-2018 14:55:01] NOTICE: fpm is running, pid 1
+[15-Oct-2018 14:55:01] NOTICE: ready to handle connections
+[15-Oct-2018 14:55:01] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 15:12:40] NOTICE: Terminating ...
+[15-Oct-2018 15:12:40] NOTICE: exiting, bye-bye!
+[15-Oct-2018 15:12:48] NOTICE: fpm is running, pid 1
+[15-Oct-2018 15:12:48] NOTICE: ready to handle connections
+[15-Oct-2018 15:12:48] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 15:13:41] NOTICE: Terminating ...
+[15-Oct-2018 15:13:41] NOTICE: exiting, bye-bye!
+[15-Oct-2018 15:13:59] NOTICE: fpm is running, pid 1
+[15-Oct-2018 15:13:59] NOTICE: ready to handle connections
+[15-Oct-2018 15:13:59] NOTICE: systemd monitor interval set to 10000ms
+[15-Oct-2018 15:17:16] NOTICE: Terminating ...
+[15-Oct-2018 15:17:16] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 15:17:16] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 15:17:16] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 15:17:16] ERROR: unable to read what child say: Bad file descriptor (9)
+[15-Oct-2018 15:17:16] NOTICE: exiting, bye-bye!
+[15-Oct-2018 15:18:00] NOTICE: fpm is running, pid 1
+[15-Oct-2018 15:18:00] NOTICE: ready to handle connections
+[15-Oct-2018 15:18:00] NOTICE: systemd monitor interval set to 10000ms
+[16-Oct-2018 04:46:01] WARNING: [pool www] child 28 said into stderr: "ERROR: Unable to open primary script: /usr/share/nginx/html/1.php (No such file or directory)"
+[16-Oct-2018 04:49:16] NOTICE: Terminating ...
+[16-Oct-2018 04:49:16] NOTICE: exiting, bye-bye!
+[16-Oct-2018 04:49:42] NOTICE: fpm is running, pid 1
+[16-Oct-2018 04:49:42] NOTICE: ready to handle connections
+[16-Oct-2018 04:49:42] NOTICE: systemd monitor interval set to 10000ms
+[16-Oct-2018 06:47:20] NOTICE: Terminating ...
+[16-Oct-2018 06:47:20] NOTICE: exiting, bye-bye!
