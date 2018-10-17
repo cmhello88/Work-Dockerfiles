@@ -3,8 +3,8 @@ services:
   nginx:
     image: cmhello/centos7-nginx:1.14
     container_name: pay-nginx
-#    depends_on:
-#      - php
+    depends_on:
+      - php
 #   command: bash -c "sudo usermod -aG root nginx && exec nginx -c /etc/nginx.conf"
     ports:
       - "5000:8080"
@@ -19,8 +19,8 @@ services:
   php:
     image: cmhello/centos7-php:7.1
     container_name: pay-php-fpm
- #   depends_on:
- #     - "mysql"
+    depends_on:
+      - mysql
     ports:
       - "9991:9000"
     volumes:
@@ -35,13 +35,11 @@ services:
     #user: "1000:50"
     #privileged: true
     image: mysql:5.7
-#    depends_on:
-#    - php
     container_name: pay-mysql
     #entrypoint: ""
     #command: bash -c "mkdir -p /var/lib/mysql/tmp && exec /entrypoint.sh mysqld"
     ports:
-    - "3357:3306"
+      - "3357:3306"
     volumes:
     #- ./mysql/conf/my.cnf:/etc/mysql/my.cnf
     #- ./mysql/log:/var/log/mysql/
